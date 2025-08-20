@@ -23,4 +23,7 @@ This project visualizes customer preferences and payment behaviors
     - Purchase Amount(USD)
     - Review Rating
     - Measure Values
-     - The focus was on  
+     - The focus was on Date Purchase, Customer Reference ID, Item Purchased for Customer Preferences.
+     - Another focus is on Customer Reference ID, Purchase Amount ID, Avg Spend per customer per method, and payment method for Payment Behaviors.
+    ## Insights
+    - 
