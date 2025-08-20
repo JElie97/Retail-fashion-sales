@@ -8,11 +8,12 @@ This project visualizes customer preferences and payment behaviors in MySQL and 
   - analyze customer preferences and payment behaviors to assist in fashion company operations
   - Visualize insights on Tableau
     ## Dashboard Preview
-    - Fashion retail sales data 
+    - Fashion retail sales data<img width="1622" height="797" alt="fashion retail sales data screenshot" src="https://github.com/user-attachments/assets/8cc26bef-fc55-4991-bc29-317d10120ec6" />
+ 
     ## Live Tableau Dashboard
-    - Link to dashboard:
+    - Link to dashboard:https://public.tableau.com/views/fashionretailsalesdata/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
     ## Dataset
-    - The dataset includes:
+    - The dataset includes the following:
     - Date Purchase
     - Item Purchased
     - Payment Method
