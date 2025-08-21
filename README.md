@@ -5,7 +5,7 @@ This project visualizes customer preferences, payment behaviors and trends over 
 - Tableau Public - for visualization
   ## Project Objectives
   - Clean and prepare raw data on MySQL to be ported over to Tableau
-  - analyze customer preferences and payment behaviors to assist in fashion company operations
+  - analyze customer preferences, payment behaviors, and trends over time to assist in fashion company operations
   - Visualize insights on Tableau
     ## Dashboard Preview
     - Fashion retail sales data<img width="1622" height="797" alt="fashion retail sales data screenshot" src="https://github.com/user-attachments/assets/8cc26bef-fc55-4991-bc29-317d10120ec6" />
@@ -24,7 +24,9 @@ This project visualizes customer preferences, payment behaviors and trends over 
     - Purchase Amount(USD)
     - Review Rating
     - Measure Values
-     - The focus was on Date Purchase, Customer Reference ID, Item Purchased for Customer Preferences.
+     - The focus was on Date Purchase, Purchase Amount(USD), and Item Purchased for Customer Preferences.
      - Another focus is on Customer Reference ID, Purchase Amount ID, Avg Spend per customer per method, and payment method for Payment Behaviors.
+     - Lastly, Date Purchase, and Purchase Amount(USD) for trends over time.
     ## Insights
-    - 
+    - Most items that have high purchased amounts in 2022 have low ratings, while those same items have lower puchased amounts in 2023 and have higher ratings.
+    - One of those exceptions was the item was Tunic which still had a higher purchase amount in 
