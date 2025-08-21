@@ -1,5 +1,5 @@
 # Retail-fashion-sales
-This project visualizes customer preferences and payment behaviors in MySQL and Tableau Public
+This project visualizes customer preferences, payment behaviors and trends over time in MySQL and Tableau Public
 ## Tools Used
 - MySQL
 - Tableau Public - for visualization
