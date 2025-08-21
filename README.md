@@ -28,5 +28,9 @@ This project visualizes customer preferences, payment behaviors and trends over 
      - Another focus is on Customer Reference ID, Purchase Amount ID, Avg Spend per customer per method, and payment method for Payment Behaviors.
      - Lastly, Date Purchase, and Purchase Amount(USD) for trends over time.
     ## Insights
-    - Most items that have high purchased amounts in 2022 have low ratings, while those same items have lower puchased amounts in 2023 and have higher ratings.
-    - One of those exceptions was the item was Tunic which still had a higher purchase amount in 
+    - Most items that have high purchased amounts in 2022 have low ratings, while those same clothes have lower puchased amounts in 2023 and have higher ratings.
+    - One of those exceptions, was a Tunic which still had a higher purchase amount in 2022 and 2023.
+    - The reverse happened with clothes that had less people buy in 2022, but more people bought in 2023 and those clothes in 2022 had lower ratings than the ones in 2023. That was still consistent.
+    - More customers used credit cards then cash.
+    - The average spending method by each customer was credit cards.
+    - But more people bought clothes
