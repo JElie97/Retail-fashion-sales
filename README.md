@@ -33,4 +33,8 @@ This project visualizes customer preferences, payment behaviors and trends over 
     - The reverse happened with clothes that had less people buy in 2022, but more people bought in 2023 and those clothes in 2022 had lower ratings than the ones in 2023. That was still consistent.
     - More customers used credit cards then cash.
     - The average spending method by each customer was credit cards.
-    - But more people bought clothes
+    - More people purchased clothes with cash than credit cards.
+    ## Files Included
+    - <img width="1622" height="797" alt="fashion retail sales data screenshot" src="https://github.com/user-attachments/assets/8cc26bef-fc55-4991-bc29-317d10120ec6" />
+    -[fashion retail data.sql](https://github.com/user-attachments/files/22014910/fashion.retail.data.sql)
+
