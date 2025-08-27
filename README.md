@@ -8,7 +8,8 @@ This project visualizes customer preferences, payment behaviors and trends over 
   - analyze customer preferences, payment behaviors, and trends over time to assist in fashion company operations
   - Visualize insights on Tableau
     ## Dashboard Preview
-    - Fashion retail sales data<img width="1622" height="797" alt="fashion retail sales data screenshot" src="https://github.com/user-attachments/assets/8cc26bef-fc55-4991-bc29-317d10120ec6" />
+    - Fashion retail sales data<img width="1617" height="800" alt="fashion retail sales data screenshot" src="https://github.com/user-attachments/assets/f72f90e4-b527-490f-8e7b-d449f4329719" />
+
  
     ## Live Tableau Dashboard
     - Link to dashboard:https://public.tableau.com/views/fashionretailsalesdata/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
@@ -35,6 +36,7 @@ This project visualizes customer preferences, payment behaviors and trends over 
     - The average spending method by each customer was credit cards.
     - More people purchased clothes with cash than credit cards.
     ## Files Included
-    - <img width="1622" height="797" alt="fashion retail sales data screenshot" src="https://github.com/user-attachments/assets/8cc26bef-fc55-4991-bc29-317d10120ec6" />
+    - <img width="1617" height="800" alt="fashion retail sales data screenshot" src="https://github.com/user-attachments/assets/496f57b7-1346-44a2-9cd1-780473e4ef1e" />
+
     -[fashion retail data.sql](https://github.com/user-attachments/files/22014910/fashion.retail.data.sql)
 
