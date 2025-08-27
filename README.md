@@ -38,5 +38,7 @@ This project visualizes customer preferences, payment behaviors and trends over 
     ## Files Included
     - <img width="1617" height="800" alt="fashion retail sales data screenshot" src="https://github.com/user-attachments/assets/496f57b7-1346-44a2-9cd1-780473e4ef1e" />
 
-    -[fashion retail data.sql](https://github.com/user-attachments/files/22014910/fashion.retail.data.sql)
+    - [fashion retail data.sql](https://github.com/user-attachments/files/22014910/fashion.retail.data.sql)
+     ## Retail fashion sales data using tableau as a visualization
+    -
 
