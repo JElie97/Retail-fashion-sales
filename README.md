@@ -39,6 +39,10 @@ This project visualizes customer preferences, payment behaviors and trends over 
     - <img width="1617" height="800" alt="fashion retail sales data screenshot" src="https://github.com/user-attachments/assets/496f57b7-1346-44a2-9cd1-780473e4ef1e" />
 
     - [fashion retail data.sql](https://github.com/user-attachments/files/22014910/fashion.retail.data.sql)
-     ## Retail fashion sales data using tableau as a visualization
-    -
-
+     ## Key Takeways from this project
+    - Stronger understanding of data cleaning and using MySql
+    - Gained experience in data visualizations and publishing dashboards on Tableau Public and Tableau.
+    - Gained experience on how to prep data across tools for analysis storytelling.
+      ## Next Steps
+     - I'll continue to improve my skills by exploring more datasets while utilizing SQL and Tableau.
+     - Add more projects to my portfolio by incorporating excel, sql, and tableau.
